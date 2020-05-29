@@ -11,10 +11,11 @@ https://bit.ly/YouTubeAPI-01
 
 [Google Developers Console](https://console.developers.google.com/)
 
-[Google API Python Client](https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fgoogleapis%2Fgoogle-api-python-client&event=video_description&v=th5_9woFJmk&redir_token=U9EyiZ7mqY254u6VXKDuYU64K7N8MTU5MDg2MzY1N0AxNTkwNzc3MjU3)
+[Google API Python Client](https://github.com/googleapis/google-api-python-client)
 
 [YouTube API](https://developers.google.com/youtube/v3)
 
 [Environment Variable Tutorial](https://youtu.be/5iWhQWVXosU)
 
 [Virtual Environment Tutorial](https://youtu.be/Kg1Yvry_Ydk)
+
