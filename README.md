@@ -9,6 +9,8 @@ The code for this video can be found at:
 
 https://bit.ly/YouTubeAPI-01
 
+Related links:
+
 [Google Developers Console](https://console.developers.google.com/)
 
 [Google API Python Client](https://github.com/googleapis/google-api-python-client)
