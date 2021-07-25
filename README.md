@@ -29,3 +29,5 @@ Install the Google API Client for Python:
 (venv) $ pip install google-api-python-client
 ```
 
+[YouTube API Samples](https://github.com/youtube/api-samples)
+
