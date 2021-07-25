@@ -21,3 +21,11 @@ Related links:
 
 [Virtual Environment Tutorial](https://youtu.be/Kg1Yvry_Ydk)
 
+NOTES:
+
+Install the Google API Client for Python:
+
+```
+(venv) $ pip install google-api-python-client
+```
+
